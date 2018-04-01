@@ -3,4 +3,4 @@ The bag integrates the MEMS technology, GPS, human-machine interactive design as
 
 ![](https://github.com/Yaxin-Zhu/iBag/blob/master/Poster.jpg?raw=true)
 
-![](https://github.com/Yaxin-Zhu/iBag/blob/master/iBag.mp4?raw=true)
+[![Watch the video]](https://github.com/Yaxin-Zhu/iBag/blob/master/iBag.mp4?raw=true)
